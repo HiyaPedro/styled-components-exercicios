@@ -36,8 +36,6 @@ Altere os elementos `header`,`main`, `nav` do componente App, para que sua estil
 Altere o componente CardVideo, para que ele seja estilzado com `styled-components`.
 
 
-
-
 ## Informações úteis sobre o assunto
 [Documentação do styled-components em inglês](https://styled-components.com/docs)
 
