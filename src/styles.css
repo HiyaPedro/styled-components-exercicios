@@ -10,29 +10,29 @@ body {
   flex-direction: column;
 }
 
-header {
+/* header {
   background-color: orange;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 0 50px;
   height: 10%;
-}
+} */
 
-main {
+/* main {
   min-height: 80%;
   display: flex;
-}
+} */
 
-.menu-vertical {
+/* .menu-vertical {
   flex-basis: 200px;
   border-right-style: solid;
   border-right-width: thin;
-}
+} */
 
-.botoes-meunu-vertical {
+/* .botoes-meunu-vertical {
   list-style-type: none;
-}
+} */
 
 .painel-de-videos {
   flex-grow: 1;
@@ -44,7 +44,7 @@ main {
   margin: 10px;
 }
 
-.box-pagina-principal {
+/* .box-pagina-principal {
   display: grid;
   grid-template-rows: 3fr 1fr;
   grid-template-columns: 1fr;
@@ -52,7 +52,7 @@ main {
   border-width: thin;
   align-items: start;
   justify-items: stretch;
-}
+} */
 
 footer {
   background: #333b3e;
